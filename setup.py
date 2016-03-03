@@ -15,7 +15,7 @@ config={
 	'author_email': 'xwnjnu@gmail.com',
 	'version': '0.1',
 	'install_requires': ['nose'],
-	'packages': ['NAME'],
+	'packages': ['www'],
 	'scripts': ['bin/run.py'],
 	'name': 'PisXw_WebApp'
 }
